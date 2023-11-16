@@ -11,5 +11,5 @@
   <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=plastic&logo=R&logoColor=white"/>
   </br>
   
-  <img alt="scikit-learn" src ="https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=plastic&logo=scikit-learn&logoColor=white"/>
+  <img alt="scikit-learn" src ="https://img.shields.io/badge/'scikit-learn'-F7931E.svg?&style=plastic&logo=scikit-learn&logoColor=white"/>
 </div>
