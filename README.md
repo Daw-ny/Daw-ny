@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 <div align=center> 
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white"/>
-  <img alt="R" src ="https://img.shields.io/badge/R-#276DC3.svg?&style=plastic&logo=Python&logoColor=white"/>
+  <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=plastic&logo=Python&logoColor=white"/>
   </br>
   
-  <img alt="scikit-learn" src ="https://img.shields.io/badge/scikit-learn-#F7931E.svg?&style=plastic&logo=Python&logoColor=white"/>
+  <img alt="scikit-learn" src ="https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=plastic&logo=Python&logoColor=white"/>
 </div>
