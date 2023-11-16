@@ -59,13 +59,11 @@
 
 ![The Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daw-ny&layout=compact)
 
-<h3> 🚴‍♂️Tech Stack </h3>
+<h3> 🏅Baekjoon Algorithm </h3>
 
 [![Solved.ac 
 wisehead](http://mazassumnida.wtf/api/v2/generate_badge?boj=wisehead)](https://solved.ac/wisehead)
 
-
-
-
+<h3> 🧴Status </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daw-ny&show_icons=true&theme=highcontrast)
