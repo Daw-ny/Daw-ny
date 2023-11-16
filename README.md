@@ -3,7 +3,7 @@
 ### Hi there 👋 I want to become an expert both data science and data engineering.
 
 
-<div align=center><h1>📚 STACKS 📚</h1></div>
+<div align=center><h1>📚 Once I've Used 📚</h1></div>
 
 
 <div align=center> 
