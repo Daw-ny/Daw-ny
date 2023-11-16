@@ -56,4 +56,4 @@
 
 
 
-![Dqwny's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=card)
+![The Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daw-ny&layout=compact)
