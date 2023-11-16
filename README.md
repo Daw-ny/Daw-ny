@@ -54,3 +54,6 @@
 > - 사회 조사 분석사 2급 (2019.08.16)
 > - 컴퓨터 활용 능력 1급 (2018.08.31)
 
+
+
+![Dqwny's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=card)
