@@ -61,5 +61,5 @@
 
 <h3> 🚴‍♂️Tech Stack </h3>
 
-[![Solved.ac wisehead
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac 
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wisehead})](https://solved.ac/{wisehead})
