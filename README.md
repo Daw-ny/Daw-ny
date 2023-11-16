@@ -64,6 +64,6 @@
 [![Solved.ac 
 wisehead](http://mazassumnida.wtf/api/v2/generate_badge?boj=wisehead)](https://solved.ac/wisehead)
 
-<h3> 🧴Status </h3>
+<h3> 🧴Stats </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daw-ny&show_icons=true&theme=highcontrast)
