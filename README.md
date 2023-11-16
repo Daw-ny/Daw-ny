@@ -24,6 +24,7 @@
 <div align="center"><h2>✏️ My Log </h2></div>
 
 <h3>Experience</h3>
+
 > - Upstage AI Bootcamp, [Upstage AI LAB](https://fastcampus.co.kr/b2g_kdigitaltraining_ai)/ 2023.10.10 ~
 > - 2023 강서구 빅데이터 활용 공모전 🥈nd, [강서구청](https://www.gangseo.seoul.kr/reserve/re040101/view?aplySn=44&curPage=1)/ 2023.02.20 ~ 2023.05.01
 > - 의료정보 분석 전문가 심화과정I 🥉rd, [한국보건복지인재원, 서울아산병원](https://www.amc.seoul.kr/asan/academy/event/eventDetail.do?eventId=1269)/ 2022.06.18 ~ 2022.08.20
