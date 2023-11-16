@@ -55,5 +55,9 @@
 > - 컴퓨터 활용 능력 1급 (2018.08.31)
 
 
-
+<h3> 🚴‍♂️Tech Stack </h3>
 ![The Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daw-ny&layout=compact)
+
+<h3> 🚴‍♂️Tech Stack </h3>
+[![Solved.ac wisehead
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
