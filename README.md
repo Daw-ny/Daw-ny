@@ -2,7 +2,6 @@
 
 ### Hi there 👋 I want to become an expert both data science and data engineering.
 
-
 <div align=center><h1>📚 Once I've Used 📚</h1></div>
 
 
@@ -21,3 +20,18 @@
   <img alt="Plotly" src ="https://img.shields.io/badge/Plotly-3F4F75.svg?&style=plastic&logo=Plotly&logoColor=white"/>
   </br>
 </div>
+
+<div align="center"><h2>✏️ My Log </h2></div>
+
+<h3>Experience</h3>
+> - Upstage AI Bootcamp, [Upstage AI LAB](https://fastcampus.co.kr/b2g_kdigitaltraining_ai)/ 2023.10.10 ~
+> - 2023 강서구 빅데이터 활용 공모전 🥈nd, [강서구청](https://www.gangseo.seoul.kr/reserve/re040101/view?aplySn=44&curPage=1)/ 2023.02.20 ~ 2023.05.01
+> - 의료정보 분석 전문가 심화과정I 🥉rd, [한국보건복지인재원, 서울아산병원](https://www.amc.seoul.kr/asan/academy/event/eventDetail.do?eventId=1269)/ 2022.06.18 ~ 2022.08.20
+> - 2020 데이터 청년 캠퍼스, [한국데이터산업진흥원, 한남대학교](https://sanhak.chungbuk.ac.kr/bbs/board.php?bo_table=8101&wr_id=453&page=18)/ 2020.06.22 ~ 2020.09.18
+>
+
+<h3>Experience</h3>
+
+
+
+
