@@ -33,7 +33,7 @@
 
 
 > - 사회계열 부대표, 대학원 총학생회/ 2022.09.01 ~ 2023.02.16
-> - 의료정보 분석 전문가 심화과정I 🥉rd, [한국보건복지인재원, 서울아산병원](https://www.amc.seoul.kr/asan/academy/event/eventDetail.do?eventId=1269)/ 2022.06.18 ~ 2022.08.20
+> - 🏆 의료정보 분석 전문가 심화과정I 🥉rd, [한국보건복지인재원, 서울아산병원](https://www.amc.seoul.kr/asan/academy/event/eventDetail.do?eventId=1269)/ 2022.06.18 ~ 2022.08.20
 > - 태아 및 소아 AI 학습 데이터 구축, 중앙대병원/ 2021.07.01 ~ 2021.12.31
 > - 2020 데이터 청년 캠퍼스, [한국데이터산업진흥원, 한남대학교](https://sanhak.chungbuk.ac.kr/bbs/board.php?bo_table=8101&wr_id=453&page=18)/ 2020.06.22 ~ 2020.09.18
 
@@ -44,7 +44,7 @@
 > - JOBDA D champs league 본선 진출/ 2023.09.01 ~ 2023.10.01
 > - 2023 전력사용량 예측 AI 경진대회, [DACON](https://dacon.io/competitions/official/236125/overview/description)/ 2023.07.17 ~ 2023.09.18
 > - 2023 날씨 빅데이터 콘테스트, [기상청](https://bd.kma.go.kr/contest/info_01.do)/ 2023.06.12 ~ 2023.07.05
-> - 2023 강서구 빅데이터 활용 공모전 🥈nd, [강서구청](https://www.gangseo.seoul.kr/reserve/re040101/view?aplySn=44&curPage=1)/ 2023.02.20 ~ 2023.05.01
+> - 🏆 2023 강서구 빅데이터 활용 공모전 🥈nd, [강서구청](https://www.gangseo.seoul.kr/reserve/re040101/view?aplySn=44&curPage=1)/ 2023.02.20 ~ 2023.05.01
 > - 2022 유플러스 AI Ground 19th, [AI stages](https://stages.ai/competitions/208/overview/description)/ 2022.11.07 ~ 2022.12.02
 > - 2022 체육종합 데이터 분석 활용 경진대회, [KSPO](https://kspo.or.kr/kspo/bbs/B0000099/view.do?nttId=60750&menuNo=200435&pageIndex=1)/ 2022.10.04 ~ 2022.11.20
 > - (광양시) 전기자동차 충전소 최적입지 선정, [LH Campus](https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2009_001)/ 2020.09.10 ~ 2020.10.30
