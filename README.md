@@ -16,11 +16,11 @@
   <img alt="scikit-learn" src ="https://img.shields.io/badge/scikit learn-F7931E.svg?&style=plastic&logo=scikit-learn&logoColor=white"/>
   <img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=plastic&logo=Flask&logoColor=white"/>
   <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=plastic&logo=Django&logoColor=white"/>
-  <img alt="Dash" src ="https://img.shields.io/badge/Dash-008DE4.svg?&style=plastic&logo=Dash&logoColor=white"/>
   </br>
   
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=plastic&logo=MySQL&logoColor=white"/>
   <img alt="Plotly" src ="https://img.shields.io/badge/Plotly-3F4F75.svg?&style=plastic&logo=Plotly&logoColor=white"/>
+  <img alt="Dash" src ="https://img.shields.io/badge/Dash-008DE4.svg?&style=plastic&logo=Dash&logoColor=white"/>
   </br>
 
   <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=plastic&logo=Git&logoColor=white"/>
