@@ -40,7 +40,7 @@
 
 <h3> Competitions & Project </h3>
 
-> - Dacon - 2023 대구 교통사고 피해 예측 AI 경진대회 38th(4%), [Third-01 Proj](https://github.com/Daw-ny/2023_Upstage_3rd-01_Proj)/ 2023.12.04 ~ 2023.12.11
+> - Dacon - 2023 대구 교통사고 피해 예측 AI 경진대회 37th(4%), [Third-01 Proj](https://github.com/Daw-ny/2023_Upstage_3rd-01_Proj)/ 2023.12.04 ~ 2023.12.11
 > - Upstage AI Lab - Exploring Risk Factors for Liver Disease 🏆우수팀 선정, [Second Proj](https://github.com/Daw-ny/Upstage_2nd_EDA_Proj)/ 2023.11.06 ~ 2023.11.15
 > - Upstage AI Lab - 끝말잇기, [First Proj](https://github.com/Daw-ny/Upstage_01st_proj)/ 2023.10.25 ~ 2023.10.31
 > - JOBDA D champs league 본선 진출/ 2023.09.01 ~ 2023.10.01
