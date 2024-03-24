@@ -40,8 +40,9 @@
 
 <h3> Competitions & Project </h3>
 
+> - Upstage AI Lab - Dialogue Summarization, [Fifth_Proj](https://github.com/Daw-ny/2024_Upstage_06th_NLP_Proj)/ 2024.03.08 ~ 2024.03.20
 > - LG Aimers - MQL 데이터 기반 B2B 영업 기회 창출 예측 모델 개발, [LG Aimers Proj]()/ 2024.02.02 ~ 2024.02.26
-> - Upstage AI Lab - Document Type Classification, [Fifth_Proj](https://github.com/Daw-ny/2024_Upstage_CV_Proj)/ 2024.02.05 ~ 2024.02.19
+> - Upstage AI Lab - Document Type Classification, [Fifth_Proj](https://github.com/Daw-ny/2024_Upstage_05th_CV_Proj)/ 2024.02.05 ~ 2024.02.19
 > - Upstage AI Lab - House Price Prediction, [Fourth_Proj](https://github.com/Daw-ny/2024_Upstage_04th_ML_adv_Proj)/ 2024.01.15 ~ 2024.01.26
 > - 🥈 Dacon - 2023 대구 교통사고 피해 예측 AI 경진대회 37th(4%), [Third-01 Proj](https://github.com/Daw-ny/2023_Upstage_3rd-01_Proj)/ 2023.12.04 ~ 2023.12.11
 > - 🏆 Upstage AI Lab - Exploring Risk Factors for Liver Disease 우수팀 선정, [Second Proj](https://github.com/Daw-ny/Upstage_2nd_EDA_Proj)/ 2023.11.06 ~ 2023.11.15
