@@ -40,7 +40,7 @@
 
 <h3> Competitions & Project </h3>
 
-> - Upstage AI Lab - Dialogue Summarization, [Fifth_Proj](https://github.com/Daw-ny/2024_Upstage_06th_NLP_Proj)/ 2024.03.08 ~ 2024.03.20
+> - Upstage AI Lab - Dialogue Summarization, [Sixth_Proj](https://github.com/Daw-ny/2024_Upstage_06th_NLP_Proj)/ 2024.03.08 ~ 2024.03.20
 > - LG Aimers - MQL 데이터 기반 B2B 영업 기회 창출 예측 모델 개발, [LG Aimers Proj]()/ 2024.02.02 ~ 2024.02.26
 > - Upstage AI Lab - Document Type Classification, [Fifth_Proj](https://github.com/Daw-ny/2024_Upstage_05th_CV_Proj)/ 2024.02.05 ~ 2024.02.19
 > - Upstage AI Lab - House Price Prediction, [Fourth_Proj](https://github.com/Daw-ny/2024_Upstage_04th_ML_adv_Proj)/ 2024.01.15 ~ 2024.01.26
