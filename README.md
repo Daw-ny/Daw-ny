@@ -40,14 +40,14 @@
 > - 2020 데이터 청년 캠퍼스, [한국데이터산업진흥원, 한남대학교](https://sanhak.chungbuk.ac.kr/bbs/board.php?bo_table=8101&wr_id=453&page=18)/ 2020.06.22 ~ 2020.09.18
 
 <h3> Competitions & Project </h3>
-> - Upstage AI Lab - Scientific Knowledge Question Answering, [Final_Proj](https://github.com/Daw-ny/2024_Upstage_Final_IR_proj)/ 2024.04.08 ~ 2024.05.03
-> - Upstage AI Lab - Chemical Process Anomaly Detection, [Final_Proj](https://github.com/Daw-ny/2024_Upstage_Final_AD_proj)/ 2024.04.08 ~ 2024.05.03
-> - Upstage AI Lab - Dialogue Summarization, [Sixth_Proj](https://github.com/Daw-ny/2024_Upstage_06th_NLP_Proj)/ 2024.03.08 ~ 2024.03.20
-> - LG Aimers - MQL 데이터 기반 B2B 영업 기회 창출 예측 모델 개발, [LG Aimers Proj](https://github.com/Daw-ny/2024_LG_Aimers)/ 2024.02.02 ~ 2024.02.26
-> - Upstage AI Lab - Document Type Classification, [Fifth_Proj](https://github.com/Daw-ny/2024_Upstage_05th_CV_Proj)/ 2024.02.05 ~ 2024.02.19
-> - Upstage AI Lab - House Price Prediction, [Fourth_Proj](https://github.com/Daw-ny/2024_Upstage_04th_ML_adv_Proj)/ 2024.01.15 ~ 2024.01.26
-> - 🥈 Dacon - 2023 대구 교통사고 피해 예측 AI 경진대회 37th(4%), [Third-01 Proj](https://github.com/Daw-ny/2023_Upstage_3rd-01_Proj)/ 2023.12.04 ~ 2023.12.11
-> - 🏆 Upstage AI Lab - Exploring Risk Factors for Liver Disease 우수팀 선정, [Second Proj](https://github.com/Daw-ny/Upstage_2nd_EDA_Proj)/ 2023.11.06 ~ 2023.11.15
+> - Upstage AI Lab - Scientific Knowledge Question Answering, [Final_Proj](https://github.com/Daw-ny/2024_Upstage_Final_IR_proj)/ 2024.04.08 ~ 2024.05.03  
+> - Upstage AI Lab - Chemical Process Anomaly Detection, [Final_Proj](https://github.com/Daw-ny/2024_Upstage_Final_AD_proj)/ 2024.04.08 ~ 2024.05.03  
+> - Upstage AI Lab - Dialogue Summarization, [Sixth_Proj](https://github.com/Daw-ny/2024_Upstage_06th_NLP_Proj)/ 2024.03.08 ~ 2024.03.20  
+> - LG Aimers - MQL 데이터 기반 B2B 영업 기회 창출 예측 모델 개발, [LG Aimers Proj](https://github.com/Daw-ny/2024_LG_Aimers)/ 2024.02.02 ~ 2024.02.26  
+> - Upstage AI Lab - Document Type Classification, [Fifth_Proj](https://github.com/Daw-ny/2024_Upstage_05th_CV_Proj)/ 2024.02.05 ~ 2024.02.19  
+> - Upstage AI Lab - House Price Prediction, [Fourth_Proj](https://github.com/Daw-ny/2024_Upstage_04th_ML_adv_Proj)/ 2024.01.15 ~ 2024.01.26  
+> - 🥈 Dacon - 2023 대구 교통사고 피해 예측 AI 경진대회 37th(4%), [Third-01 Proj](https://github.com/Daw-ny/2023_Upstage_3rd-01_Proj)/ 2023.12.04 ~ 2023.12.11  
+> - 🏆 Upstage AI Lab - Exploring Risk Factors for Liver Disease 우수팀 선정, [Second Proj](https://github.com/Daw-ny/Upstage_2nd_EDA_Proj)/ 2023.11.06 ~ 2023.11.15  
 > - Upstage AI Lab - 끝말잇기, [First Proj](https://github.com/Daw-ny/Upstage_01st_proj)/ 2023.10.25 ~ 2023.10.31
 > - JOBDA D champs league 본선 진출/ 2023.09.01 ~ 2023.10.01
 > - 2023 전력사용량 예측 AI 경진대회, [DACON](https://dacon.io/competitions/official/236125/overview/description)/ 2023.07.17 ~ 2023.09.18
