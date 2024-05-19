@@ -80,3 +80,6 @@ wisehead](http://mazassumnida.wtf/api/v2/generate_badge?boj=wisehead)](https://s
 <h3> 🧴Stats </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daw-ny&show_icons=true&theme=highcontrast)
+
+<div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daw-ny" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/daw-ny?trk=profile-badge">Da-woon Kim</a></div>
+              
