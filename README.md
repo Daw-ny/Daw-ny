@@ -32,16 +32,18 @@
 
 <h3> Experiences </h3>
 
-
+> - LG Aimers 4기 수료/ 2024.01.02 ~ 2024.02.26
+> - 🏆 Upstage AI Lab 1기 우수 수료/ 2023.10.10 ~ 2024.05.10
 > - 사회계열 부대표, 대학원 총학생회/ 2022.09.01 ~ 2023.02.16
 > - 🏆 의료정보 분석 전문가 심화과정I 🥉rd, [한국보건복지인재원, 서울아산병원](https://www.amc.seoul.kr/asan/academy/event/eventDetail.do?eventId=1269)/ 2022.06.18 ~ 2022.08.20
 > - 태아 및 소아 AI 학습 데이터 구축, 중앙대병원/ 2021.07.01 ~ 2021.12.31
 > - 2020 데이터 청년 캠퍼스, [한국데이터산업진흥원, 한남대학교](https://sanhak.chungbuk.ac.kr/bbs/board.php?bo_table=8101&wr_id=453&page=18)/ 2020.06.22 ~ 2020.09.18
 
 <h3> Competitions & Project </h3>
-
+> - Upstage AI Lab - Scientific Knowledge Question Answering, [Final_Proj](https://github.com/Daw-ny/2024_Upstage_Final_IR_proj)/ 2024.04.08 ~ 2024.05.03
+> - Upstage AI Lab - Chemical Process Anomaly Detection, [Final_Proj](https://github.com/Daw-ny/2024_Upstage_Final_AD_proj)/ 2024.04.08 ~ 2024.05.03
 > - Upstage AI Lab - Dialogue Summarization, [Sixth_Proj](https://github.com/Daw-ny/2024_Upstage_06th_NLP_Proj)/ 2024.03.08 ~ 2024.03.20
-> - LG Aimers - MQL 데이터 기반 B2B 영업 기회 창출 예측 모델 개발, [LG Aimers Proj]()/ 2024.02.02 ~ 2024.02.26
+> - LG Aimers - MQL 데이터 기반 B2B 영업 기회 창출 예측 모델 개발, [LG Aimers Proj](https://github.com/Daw-ny/2024_LG_Aimers)/ 2024.02.02 ~ 2024.02.26
 > - Upstage AI Lab - Document Type Classification, [Fifth_Proj](https://github.com/Daw-ny/2024_Upstage_05th_CV_Proj)/ 2024.02.05 ~ 2024.02.19
 > - Upstage AI Lab - House Price Prediction, [Fourth_Proj](https://github.com/Daw-ny/2024_Upstage_04th_ML_adv_Proj)/ 2024.01.15 ~ 2024.01.26
 > - 🥈 Dacon - 2023 대구 교통사고 피해 예측 AI 경진대회 37th(4%), [Third-01 Proj](https://github.com/Daw-ny/2023_Upstage_3rd-01_Proj)/ 2023.12.04 ~ 2023.12.11
