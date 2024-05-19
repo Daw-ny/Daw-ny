@@ -40,6 +40,7 @@
 > - 2020 데이터 청년 캠퍼스, [한국데이터산업진흥원, 한남대학교](https://sanhak.chungbuk.ac.kr/bbs/board.php?bo_table=8101&wr_id=453&page=18)/ 2020.06.22 ~ 2020.09.18
 
 <h3> Competitions & Project </h3>
+
 > - Upstage AI Lab - Scientific Knowledge Question Answering, [Final_Proj](https://github.com/Daw-ny/2024_Upstage_Final_IR_proj)/ 2024.04.08 ~ 2024.05.03  
 > - Upstage AI Lab - Chemical Process Anomaly Detection, [Final_Proj](https://github.com/Daw-ny/2024_Upstage_Final_AD_proj)/ 2024.04.08 ~ 2024.05.03  
 > - Upstage AI Lab - Dialogue Summarization, [Sixth_Proj](https://github.com/Daw-ny/2024_Upstage_06th_NLP_Proj)/ 2024.03.08 ~ 2024.03.20  
