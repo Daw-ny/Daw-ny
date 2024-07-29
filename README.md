@@ -41,6 +41,7 @@
 
 <h3> Competitions & Project </h3>
 
+> - 2024 기상청 빅데이터 콘테스트, [기상청](https://bd.kma.go.kr/contest/info_01.do)/ 2024.05.11 ~ 2024.06.28(본선 2024.08.07)
 > - Upstage AI Lab - Scientific Knowledge Question Answering, [Final_Proj](https://github.com/Daw-ny/2024_Upstage_Final_IR_proj)/ 2024.04.08 ~ 2024.05.03  
 > - Upstage AI Lab - Chemical Process Anomaly Detection, [Final_Proj](https://github.com/Daw-ny/2024_Upstage_Final_AD_proj)/ 2024.04.08 ~ 2024.05.03  
 > - Upstage AI Lab - Dialogue Summarization, [Sixth_Proj](https://github.com/Daw-ny/2024_Upstage_06th_NLP_Proj)/ 2024.03.08 ~ 2024.03.20  
@@ -52,7 +53,7 @@
 > - Upstage AI Lab - 끝말잇기, [First Proj](https://github.com/Daw-ny/Upstage_01st_proj)/ 2023.10.25 ~ 2023.10.31
 > - JOBDA D champs league 본선 진출/ 2023.09.01 ~ 2023.10.01
 > - 2023 전력사용량 예측 AI 경진대회, [DACON](https://dacon.io/competitions/official/236125/overview/description)/ 2023.07.17 ~ 2023.09.18
-> - 2023 날씨 빅데이터 콘테스트, [기상청](https://bd.kma.go.kr/contest/info_01.do)/ 2023.06.12 ~ 2023.07.05
+> - 2023 기상청 빅데이터 콘테스트, [기상청](https://bd.kma.go.kr/contest/info_01.do)/ 2023.06.12 ~ 2023.07.05
 > - 🏆 2023 강서구 빅데이터 활용 공모전 🥈nd, [강서구청](https://www.gangseo.seoul.kr/reserve/re040101/view?aplySn=44&curPage=1)/ 2023.02.20 ~ 2023.05.01
 > - 2022 유플러스 AI Ground 19th(8%), [AI stages](https://stages.ai/competitions/208/overview/description)/ 2022.11.07 ~ 2022.12.02
 > - 2022 체육종합 데이터 분석 활용 경진대회, [KSPO](https://kspo.or.kr/kspo/bbs/B0000099/view.do?nttId=60750&menuNo=200435&pageIndex=1)/ 2022.10.04 ~ 2022.11.20
