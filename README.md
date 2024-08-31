@@ -32,6 +32,7 @@
 
 <h3> Experiences </h3>
 
+> - LG Aimers 5기 참여중/ 2024.06.02 ~ 
 > - LG Aimers 4기 수료/ 2024.01.02 ~ 2024.02.26
 > - 🏆 Upstage AI Lab 1기 우수 수료/ 2023.10.10 ~ 2024.05.10
 > - 사회계열 부대표, 대학원 총학생회/ 2022.09.01 ~ 2023.02.16
@@ -41,7 +42,8 @@
 
 <h3> Competitions & Project </h3>
 
-> - 2024 기상청 빅데이터 콘테스트, [기상청](https://bd.kma.go.kr/contest/info_01.do)/ 2024.05.11 ~ 2024.06.28(본선 2024.08.07)
+> - LG Aimers - 5기 제품 이상 여부 판별 프로젝트 []()/ 2024.08.01 ~ 2024.08.30(3rd 본선 진출 2024.09.28 ~ 2024.09.29 예정)
+> - 2024 기상청 빅데이터 콘테스트 - [기상청](https://bd.kma.go.kr/contest/info_01.do)/ 2024.05.11 ~ 2024.06.28(본선 2024.08.07)
 > - Upstage AI Lab - Scientific Knowledge Question Answering, [Final_Proj](https://github.com/Daw-ny/2024_Upstage_Final_IR_proj)/ 2024.04.08 ~ 2024.05.03  
 > - Upstage AI Lab - Chemical Process Anomaly Detection, [Final_Proj](https://github.com/Daw-ny/2024_Upstage_Final_AD_proj)/ 2024.04.08 ~ 2024.05.03  
 > - Upstage AI Lab - Dialogue Summarization, [Sixth_Proj](https://github.com/Daw-ny/2024_Upstage_06th_NLP_Proj)/ 2024.03.08 ~ 2024.03.20  
