@@ -32,7 +32,7 @@
 
 <h3> Experiences </h3>
 
-> - LG Aimers 5기 참여중/ 2024.06.02 ~ 
+> - LG Aimers 5기 🥉rd/ 2024.06.02 ~ 2024.10.14
 > - NIPA-Google ML 부트캠프 협력 실무 프로젝트 수료/ 2024.05.20 ~ 2024.07.15
 > - LG Aimers 4기 수료/ 2024.01.02 ~ 2024.02.26
 > - 🏆 Upstage AI Lab 1기 우수 수료/ 2023.10.10 ~ 2024.05.10
@@ -43,7 +43,7 @@
 
 <h3> Competitions & Project </h3>
 
-> - LG Aimers - 5기 제품 이상 여부 판별 프로젝트 []()/ 2024.08.01 ~ 2024.08.30(3rd 본선 진출 2024.09.28 ~ 2024.09.29 예정)
+> - LG Aimers - 5기 제품 이상 여부 판별 프로젝트 [LG Aimers Proj](https://github.com/Daw-ny/2024_LG_Aimers_5th)/ 2024.08.01 ~ 2024.08.30(본선 2024.09.28 ~ 2024.09.29)
 > - 2024 기상청 빅데이터 콘테스트 - [기상청](https://bd.kma.go.kr/contest/info_01.do)/ 2024.05.11 ~ 2024.06.28(본선 2024.08.07)
 > - Upstage AI Lab - Scientific Knowledge Question Answering, [Final_Proj](https://github.com/Daw-ny/2024_Upstage_Final_IR_proj)/ 2024.04.08 ~ 2024.05.03  
 > - Upstage AI Lab - Chemical Process Anomaly Detection, [Final_Proj](https://github.com/Daw-ny/2024_Upstage_Final_AD_proj)/ 2024.04.08 ~ 2024.05.03  
@@ -64,12 +64,10 @@
 
 <h3> Certifications </h3>
 
-> - 코딩역량인증시험 LV1 (PCCP, 2023.10.15)
 > - SQL 개발자 (SQLD, 2022.09.30)
 > - SAS Base Certification (2022.06.30)
 > - 데이터 분석 준전문가 (ADSP, 2020.12.22)
 > - 사회 조사 분석사 2급 (2019.08.16)
-> - 컴퓨터 활용 능력 1급 (2018.08.31)
 
 
 <h3> 🚴‍♂️Tech Stack </h3>
