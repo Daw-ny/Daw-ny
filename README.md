@@ -32,6 +32,7 @@
 
 <h3> Experiences </h3>
 
+> - LG Aimers 6기 예선 1위(public, private) / 2024.06.02 ~ 2024.10.14
 > - LG Aimers 5기 🥉rd/ 2024.06.02 ~ 2024.10.14
 > - NIPA-Google ML 부트캠프 협력 실무 프로젝트 수료/ 2024.05.20 ~ 2024.07.15
 > - LG Aimers 4기 수료/ 2024.01.02 ~ 2024.02.26
@@ -43,7 +44,8 @@
 
 <h3> Competitions & Project </h3>
 
-> - LG Aimers - 5기 제품 이상 여부 판별 프로젝트 [LG Aimers Proj](https://github.com/Daw-ny/2024_LG_Aimers_5th)/ 2024.08.01 ~ 2024.08.30(본선 2024.09.28 ~ 2024.09.29)
+> - LG Aimers - 6기 난임 환자 대상 임신 성공 여부 예측 [LG Aimers Proj](https://github.com/Daw-ny/2024_LG_Aimers_5th)/ 2025.01.01 ~ 2024.02.26(본선 2025.04.05 ~ 2025.04.06 예정)
+> - LG Aimers - 5기 차량용 디스플레이 이상 여부 판별 프로젝트 [LG Aimers Proj](https://github.com/Daw-ny/2024_LG_Aimers_5th)/ 2024.08.01 ~ 2024.08.30(본선 2024.09.28 ~ 2024.09.29)
 > - 2024 기상청 빅데이터 콘테스트 - [기상청](https://bd.kma.go.kr/contest/info_01.do)/ 2024.05.11 ~ 2024.06.28(본선 2024.08.07)
 > - Upstage AI Lab - Scientific Knowledge Question Answering, [Final_Proj](https://github.com/Daw-ny/2024_Upstage_Final_IR_proj)/ 2024.04.08 ~ 2024.05.03  
 > - Upstage AI Lab - Chemical Process Anomaly Detection, [Final_Proj](https://github.com/Daw-ny/2024_Upstage_Final_AD_proj)/ 2024.04.08 ~ 2024.05.03  
